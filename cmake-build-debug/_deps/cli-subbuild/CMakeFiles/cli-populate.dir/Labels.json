@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/gridlink/CLionProjects/Fern/cmake-build-debug/_deps/cli-subbuild/CMakeFiles/cli-populate"
+		},
+		{
+			"file" : "/Users/gridlink/CLionProjects/Fern/cmake-build-debug/_deps/cli-subbuild/CMakeFiles/cli-populate.rule"
+		},
+		{
+			"file" : "/Users/gridlink/CLionProjects/Fern/cmake-build-debug/_deps/cli-subbuild/CMakeFiles/cli-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/gridlink/CLionProjects/Fern/cmake-build-debug/_deps/cli-subbuild/cli-populate-prefix/src/cli-populate-stamp/cli-populate-build.rule"
+		},
+		{
+			"file" : "/Users/gridlink/CLionProjects/Fern/cmake-build-debug/_deps/cli-subbuild/cli-populate-prefix/src/cli-populate-stamp/cli-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/gridlink/CLionProjects/Fern/cmake-build-debug/_deps/cli-subbuild/cli-populate-prefix/src/cli-populate-stamp/cli-populate-download.rule"
+		},
+		{
+			"file" : "/Users/gridlink/CLionProjects/Fern/cmake-build-debug/_deps/cli-subbuild/cli-populate-prefix/src/cli-populate-stamp/cli-populate-install.rule"
+		},
+		{
+			"file" : "/Users/gridlink/CLionProjects/Fern/cmake-build-debug/_deps/cli-subbuild/cli-populate-prefix/src/cli-populate-stamp/cli-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/gridlink/CLionProjects/Fern/cmake-build-debug/_deps/cli-subbuild/cli-populate-prefix/src/cli-populate-stamp/cli-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/gridlink/CLionProjects/Fern/cmake-build-debug/_deps/cli-subbuild/cli-populate-prefix/src/cli-populate-stamp/cli-populate-test.rule"
+		},
+		{
+			"file" : "/Users/gridlink/CLionProjects/Fern/cmake-build-debug/_deps/cli-subbuild/cli-populate-prefix/src/cli-populate-stamp/cli-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"cli-populate"
+		],
+		"name" : "cli-populate"
+	}
+}
